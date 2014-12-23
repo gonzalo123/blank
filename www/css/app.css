@@ -1,0 +1,22 @@
+body {
+    padding-top: 50px;
+}
+
+.starter-template {
+    padding: 40px 15px;
+    text-align: center;
+}
+
+.ng-cloak {
+    opacity: 0;
+}
+
+@media (max-width: 767px) {
+    .visible-xs.collapse.in {
+        display: block !important;
+    }
+
+    .visible-xs.collapse {
+        display: none !important;
+    }
+}

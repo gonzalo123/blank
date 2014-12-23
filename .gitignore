@@ -1,0 +1,7 @@
+vendor
+node_modules
+www/assets
+bin
+*.lock
+db/gzaas.sqlite
+npm-debug.log
