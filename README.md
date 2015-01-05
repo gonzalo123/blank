@@ -1,31 +1,15 @@
 # blank
 
-A blank web project
+A blank web project with:
+* angular.js
+* PHP Silex backend
+* karma
+* phpunit
 
-## Install Via Composer
-
-```json
-{
-    "require": {
-        "gonzalo123/blank": "~1.0"
-    }
-}
-```
-
-## Install Via npm
+## Install
 
 ```
 npm install
 ```
 
-## Install Via Grunt
-
-```
-grunt install
-```
-
-## Check js files with jshint
-
-```
-grunt js
-```
+It installs: Node modules, Bower modules and PHP vendor
