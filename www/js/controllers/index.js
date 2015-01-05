@@ -1,0 +1,4 @@
+define([
+    './HomeController'
+], function () {
+});
